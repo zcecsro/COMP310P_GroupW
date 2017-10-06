@@ -1,2 +1,3 @@
 # COMP310P_GroupW
-# I'M EMIR
+# GREAT FIRST LAB SESSION
+# Yes it was
