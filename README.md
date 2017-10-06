@@ -1,1 +1,3 @@
-# HI MIKE AND EMIR
+# COMP310P_GroupW
+# GREAT FIRST LAB SESSION
+# Yes it was
